@@ -4,6 +4,8 @@ Physician-scientist and AI engineer working on clinical AI and neurology.
 
 **[Personal website and research →](https://alon-gorenshtein.github.io/)**
 
+[Selected publications and citation downloads](https://alon-gorenshtein.github.io/publications/) · [Research software and public code](https://alon-gorenshtein.github.io/projects/)
+
 I am Head of AI Engineering at [BRIDGE GenAI Lab](https://bridgegenai.org/) and a postdoctoral fellow in the Epilepsy + Data Science Lab at Beth Israel Deaconess Medical Center, affiliated with Harvard Medical School.
 
 My research spans clinical AI safety and evaluation, clinical neurophysiology, brain–computer interfaces, and neurocritical care.
